@@ -1,2 +1,9 @@
 
 hello world
+
+
+private function nonsense()
+{
+
+return 23
+}
